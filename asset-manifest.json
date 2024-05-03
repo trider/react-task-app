@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff02f4b5.css",
-    "main.js": "/static/js/main.9df222c2.js",
-    "static/js/453.e35a30d9.chunk.js": "/static/js/453.e35a30d9.chunk.js",
-    "index.html": "/index.html",
-    "main.ff02f4b5.css.map": "/static/css/main.ff02f4b5.css.map",
-    "main.9df222c2.js.map": "/static/js/main.9df222c2.js.map",
-    "453.e35a30d9.chunk.js.map": "/static/js/453.e35a30d9.chunk.js.map"
+    "main.css": "https://trider.github.io/react-task-app//static/css/main.ff02f4b5.css",
+    "main.js": "https://trider.github.io/react-task-app/static/js/main.9df222c2.js",
+    "https://trider.github.io/react-task-app/static/js/453.e35a30d9.chunk.js": "https://trider.github.io/react-task-app/static/js/453.e35a30d9.chunk.js",
+    "index.html": "https://trider.github.io/react-task-app/index.html",
+    "main.ff02f4b5.css.map": "https://trider.github.io/react-task-app/static/css/main.ff02f4b5.css.map",
+    "main.9df222c2.js.map": "https://trider.github.io/react-task-app/static/js/main.9df222c2.js.map",
+    "453.e35a30d9.chunk.js.map": "https://trider.github.io/react-task-app/static/js/453.e35a30d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff02f4b5.css",
-    "static/js/main.9df222c2.js"
+    "https://trider.github.io/react-task-app/static/css/main.ff02f4b5.css",
+    "https://trider.github.io/react-task-app/static/js/main.9df222c2.js"
   ]
 }
